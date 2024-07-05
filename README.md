@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# TcstMinerSystem
+# YXMinerSystem
 
 <h2>一款矿池级别的运维工具👍 </h2>
 
